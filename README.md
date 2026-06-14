@@ -1,6 +1,10 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:BD93F9&height=200&section=header&text=L%C3%AA+Ho%C3%A0ng&fontSize=40&fontColor=BD93F9&animation=fadeIn&fontAlignY=38&desc=Welcome+to+my+GitHub+Profile&descAlignY=55&descColor=a9b1d6)](https://github.com/softwarepepsi)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Ho%C3%A0ng;%F0%9F%8C%99+%C4%90am+m%C3%AA+l%E1%BA%ADp+tr%C3%ACnh+%26+s%C3%A1ng+t%E1%BA%A1o;%F0%9F%9A%80+Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+%C4%91i%E1%BB%81u+m%E1%BB%9Bi;%F0%9F%92%9C+Code+l%C3%A0+ng%C3%B4n+ng%E1%BB%AF+c%E1%BB%A7a+t%C3%A2m+h%E1%BB%93n;%E2%9A%A1+Let%27s+build+something+awesome!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+L%C3%AA+Ho%C3%A0ng;%F0%9F%8C%99+%C4%90am+m%C3%AA+l%E1%BA%ADp+tr%C3%ACnh+%26+s%C3%A1ng+t%E1%BA%A1o;%F0%9F%9A%80+Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+%C4%91i%E1%BB%81u+m%E1%BB%9Bi;%F0%9F%92%9C+Code+l%C3%A0+ng%C3%B4n+ng%E1%BB%AF+c%E1%BB%A7a+t%C3%A2m+h%E1%BB%93n;%E2%9A%A1+Let%27s+build+something+awesome!" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/softwarepepsi">
@@ -26,7 +30,7 @@ class Pepsi:
     alias    = "Pepsi"
     location = "🇻🇳 Việt Nam"
     passion  = ["Coding", "Sáng tạo", "Khám phá công nghệ"]
-    funfact = "hacker discord"
+    funfact  = "hacker discord"
 ```
 
 Hi, I'm **Lê Hoàng** — a freelance developer interested in programming languages and working on exciting projects!
@@ -91,6 +95,7 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 ## 🏆 GitHub Trophies
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=softwarepepsi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -98,6 +103,7 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 ### 🔝 Top Contributed Repo
 
 <p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=softwarepepsi&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
 ---
