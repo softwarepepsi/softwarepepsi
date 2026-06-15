@@ -98,7 +98,6 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=softwarepepsi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -106,7 +105,6 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=softwarepepsi&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
 ---
