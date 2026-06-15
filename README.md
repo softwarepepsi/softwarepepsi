@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/softwarepepsi/softwarepepsi/blob/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/softwarepepsi/softwarepepsi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+    <img src="https://raw.githubusercontent.com/glockinhand/glockinhand/refs/heads/main/snake.svg" alt="Snake animation"/>
   </a>
 </p>
 
