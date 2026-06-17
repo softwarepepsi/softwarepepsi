@@ -37,7 +37,7 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 
 ---
 
-## 🌐 Social
+## 🌐 Social network
 <p align="center">
   <a href="https://discord.com/users/875062909498175558">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
