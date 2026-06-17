@@ -22,7 +22,7 @@
 
 ---
 
-## 💫 Về Mình
+## 💫 About me
 
 ```python
 class Pepsi:
@@ -37,8 +37,7 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 
 ---
 
-## 🌐 Mạng Xã hội
-
+## 🌐 Social
 <p align="center">
   <a href="https://discord.com/users/875062909498175558">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -53,7 +52,7 @@ Hi, I'm **Lê Hoàng** — a freelance developer interested in programming langu
 
 ---
 
-## 💻 Ngôn ngữ & Công cụ
+## 💻 Languages ​​& Tool
 
 <p align="center">
 
