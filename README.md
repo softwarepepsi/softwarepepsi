@@ -5,4 +5,4 @@
 [![Skull](https://skillicons.dev/icons?i=js,html,css,rust,py,cpp,cs,go)](https://skillicons.dev)
 
 ### Information
-[![Discord](https://skillicons.dev/icons?i=discord)]([https://discord.com/users/1437446260662472704)
+[!(https://skillicons.dev/icons?i=discord)]([https://discord.com/users/1437446260662472704)
